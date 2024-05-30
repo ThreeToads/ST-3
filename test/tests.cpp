@@ -1,7 +1,7 @@
 // Copyright 2024 Kokin Ivan
 
-#include <gtest/gtest.h>
-#include <gmock/gmock.h>
+#include <gtest/gtest.h> // [build/c++11]
+#include <gmock/gmock.h> // [build/c++11]
 #include <cstdint>
 #include <thread>
 #include <chrono>
